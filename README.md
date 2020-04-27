@@ -9,7 +9,7 @@ To start using this project use the following commands:
 - `git clone https://github.com/georgemunene/news23
 
 
-## License inf
+## License info
 MIT License
 
 
