@@ -1,7 +1,7 @@
 # News 23
 
 ## Authors
-- George MUnene
+- George Munene
 
 ## Project setup instructions
 To start using this project use the following commands:
